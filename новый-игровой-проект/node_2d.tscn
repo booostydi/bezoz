@@ -7,7 +7,7 @@
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 
 [node name="MeshInstance2D" type="MeshInstance2D" parent="."]
-light_mask = 265
+light_mask = 260
 visibility_layer = 297
 position = Vector2(413, 323)
 skew = 0.91978854
